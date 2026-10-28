@@ -1,3 +1,5 @@
+#⚠️BETA: Saving is manual and data is not encrypted. Save before closing, and don't store sensitive info.⚠️⚠️⚠️
+
 # RAOP
 # FIRST OP Project
 
